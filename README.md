@@ -167,7 +167,14 @@
           <td>Departamento de Ouvidoria</td>
           <td>ouvidoriageral@theobroma.ro.gov.br</td>
         </tr>
-         
+         <tr>
+          <td>Departamento de gabinete</td>
+          <td>compdec@theobroma.ro.gov.br</td>
+        </tr>
+         <tr>
+          <td>CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE</td>
+          <td>cmdca@theobroma.ro.gov.br</td>
+        </tr>
         <!-- Adicione mais setores e e-mails aqui -->
       </tbody>
     </table>
